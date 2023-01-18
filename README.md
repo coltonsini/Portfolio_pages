@@ -10,3 +10,4 @@ A link to websites that I have worked on before
 - https://33dc.com.co/terminos-y-condiciones/, created the terms and condition page.
 - https://ipsvst.com, created Blog page and made some minor adjustments in the website.
 - https://amci.org.co, created several blog posts and made some adjustments overall in the website. 
+- https://miralagosneiva.com, created the page using oxygen plugin. 
