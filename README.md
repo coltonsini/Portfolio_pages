@@ -12,6 +12,7 @@ A link to websites that I have worked on before
 - https://amci.org.co, created several blog posts and made some adjustments overall in the website. 
 - https://miralagosneiva.com, created the page using oxygen plugin. 
 - https://www.silverhomes.ai, created the page using oxygen plugin.
+- https://saenzfety.com, https://saenzfety.com/contacto-asesores/, created both landing pages with HTML, CSS, and Javascript code
 
 Shopify Websites
 - https://awara.com.co worked on the website to update main content and create and manage products
