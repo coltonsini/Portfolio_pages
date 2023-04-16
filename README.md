@@ -13,6 +13,7 @@ A link to websites that I have worked on before
 - https://miralagosneiva.com, created the page using oxygen plugin. 
 - https://www.silverhomes.ai, created the page using oxygen plugin.
 - https://saenzfety.com, https://saenzfety.com/contacto-asesores/, created both landing pages with HTML, CSS, and Javascript code
+- https://www.friendstay.com.au/?public&#priceplans, created the lading page using React.
 - https://www.valiconsultores.com/es, Updated some content of the website using drupal platform.
 
 Shopify Websites
