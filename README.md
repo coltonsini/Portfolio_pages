@@ -16,6 +16,7 @@ A link to websites that I have worked on before
 - https://www.friendstay.com.au/?public&#priceplans, created the lading page using React.
 - https://www.valiconsultores.com/es, Updated some content of the website using drupal platform.
 - https://juliyjorge.com, Created the website using oxygen plugin with some extra Javascript.
+- http://alijuna.motoraidadventure.com, Website created using HTML, CSS and Vainilla Javascript.
 
 Shopify Websites
 - https://awara.com.co worked on the website to update main content and create and manage products
