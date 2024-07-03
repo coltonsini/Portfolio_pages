@@ -34,6 +34,7 @@ These are some pages and work that I have done working at PwC Colombia using the
 - [Precios de transferencia](https://www.pwc.com/co/es/nuestros-servicios/tributarios/precios-de-transferencia.html) Updated the website using vainilla HTML, CSS and JS.
 - [Digital trust insights](https://www.pwc.com/co/es/publicaciones/global-digital-trust-insights.html) Updated the publication.
 - [Encuesta global de riesgo](https://www.pwc.com/co/es/publicaciones/global-risk-survey.html) Updated the publication.
+- [Landing in Colombia](https://www.pwc.com/co/es/nuestros-servicios/legal/landing-pwc.html) Create the page.
 
 ## Personal Work
 
