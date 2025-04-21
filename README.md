@@ -29,6 +29,7 @@ Shopify Websites
 These are some pages and work that I have done working at PwC Colombia using the company CMS system.
 
 - [PwC Insights](https://www.pwc.com/co/es/pwc-insights.html) Creation of at least 2 weekly articles for the insights page since June 2023, and updated the website also.
+- [Eventos](https://www.pwc.com/co/es/novedades.html) Created the page.
 - [Cloud Projects](https://www.pwc.com/co/es/nuestros-servicios/consultoria/pas/sofware-gestion-proyectos/cloud-projects.html) Creation of the website using vainilla HTML, CSS and JS.
 - [Climate finance accelerator](www.pwc.com/co/es/climate-finance-accelerator.html) Updates overall on the website with a regular monthly basis.
 - [Precios de transferencia](https://www.pwc.com/co/es/nuestros-servicios/tributarios/precios-de-transferencia.html) Updated the website using vainilla HTML, CSS and JS.
@@ -36,6 +37,7 @@ These are some pages and work that I have done working at PwC Colombia using the
 - [Encuesta global de riesgo](https://www.pwc.com/co/es/publicaciones/global-risk-survey.html) Updated the publication.
 - [Landing in Colombia](https://www.pwc.com/co/es/nuestros-servicios/legal/landing-pwc.html) Created the page.
 - [Servicio de emprendedores](https://www.pwc.com/co/es/nuestros-servicios/legal/asesoria-legal-fiscal-emprendedores.html) Created the page.
+- [Agilidad empresarial](https://www.pwc.com/co/es/nuestros-servicios/consultoria/tecnologia/agilidadempresarial.html) Created the page.
 
 ## Personal Work
 
